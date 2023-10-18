@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color:beige;
+    background-image: url(https://wallpapercave.com/wp/wp3517972.jpg);
+    background-attachment: scroll;
+}
+
+
+table, th, td {
+    border: 1px solid rgb(0, 255, 242);
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
+
+a:hover {
+    text-decoration: none;
+}
