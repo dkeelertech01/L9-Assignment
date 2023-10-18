@@ -9,8 +9,9 @@ body {
 
 
 table, th, td {
-    border: 1px solid rgb(0, 255, 242);
+    border: 2px solid rgb(253, 253, 253);
     border-collapse: collapse;
+    width: 20%;
 }
 
 th, td {
@@ -19,4 +20,42 @@ th, td {
 
 a:hover {
     text-decoration: none;
+}
+.niagra {
+    float:left;
+    margin-top: -350px;
+    margin-left: 800px;
+}
+
+.nia img {
+    float: right;
+    margin-top: -330px;
+}
+
+.harry img {
+    float:right;
+    margin-top: -330px;
+}
+
+.potter{
+    float:left;
+    margin-top:-350px;
+    margin-left: 800px;
+}
+
+.art img {
+    float:right;
+    margin-top:10px;
+}
+
+.museum {
+    float:left;
+    margin-left:890px;
+    margin-top:10px;
+}
+
+.botanic{
+    float:right;
+    margin-right:1050px;
+    margin-top:-340px;
 }
