@@ -24,12 +24,13 @@ a:hover {
 .niagra {
     float:left;
     margin-top: -350px;
-    margin-left: 800px;
+    margin-left: 1400px;
 }
 
 .nia img {
     float: right;
     margin-top: -330px;
+    background-color:white
 }
 
 .harry img {
@@ -40,7 +41,7 @@ a:hover {
 .potter{
     float:left;
     margin-top:-350px;
-    margin-left: 800px;
+    margin-left: 1400px;
 }
 
 .art img {
@@ -50,12 +51,12 @@ a:hover {
 
 .museum {
     float:left;
-    margin-left:890px;
+    margin-left:1400px;
     margin-top:10px;
 }
 
 .botanic{
     float:right;
-    margin-right:1050px;
-    margin-top:-340px;
+    margin-right:1200px;
+    margin-top:-20px;
 }
